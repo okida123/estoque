@@ -1,5 +1,6 @@
 <?php
 
-	echo "teste git"; 
+	echo "teste git";
+	echo "alterado";
 
 ?>
